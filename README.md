@@ -35,8 +35,6 @@ You're working in a team of two on a project for a new client. Steps 1 to 8 in t
 
 2. [Clone](https://help.github.com/articles/cloning-a-repository/) this new repository using your terminal.
 
-  <img src="images/clone-repository-dialog.png" width="500" height="auto" alt="clone repository dialog">
-
   ```sh
   $ git clone 'PASTE THE URL OF YOUR REPOSITORY HERE'
   ```
